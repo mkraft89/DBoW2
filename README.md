@@ -1,3 +1,5 @@
+Fork of DBoW2 with some bug-fixes
+
 DBoW2
 =====
 
